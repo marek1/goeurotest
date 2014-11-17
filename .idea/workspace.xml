@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec6d36a0-f529-4544-8219-ad37d4a03de3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/car-rental.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/less/colors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/directives/datevalidator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/goeuro-angular-test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/directives/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/less/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/typeahead.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/directives/typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/yeoman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.jshintrc" afterPath="$PROJECT_DIR$/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main.html" afterPath="$PROJECT_DIR$/app/views/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/main.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="goeuro-angular-test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="goeuro-angular-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="14" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bower_components/angular/angular.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="85" selection-start="3216" selection-end="3216" vertical-scroll-proportion="-4.72" vertical-offset="604" max-vertical-offset="1035">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datevalidator.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/directives/datevalidator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="45" selection-start="114" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+              <folding>
+                <marker date="1416257527000" expanded="true" signature="141:716" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="highlight.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/directives/highlight.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="43" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typeahead.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/directives/typeahead.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="0" selection-start="2407" selection-end="2407" vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="1650">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".bowerrc" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.bowerrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mixins.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/less/mixins.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="11" selection-start="1" selection-end="11" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="150">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="248" column="0" selection-start="7554" selection-end="7554" vertical-scroll-proportion="-12.807693" vertical-offset="3387" max-vertical-offset="6060">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="f4922bbd.scripts.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/scripts/f4922bbd.scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="0" selection-start="2607" selection-end="2607" vertical-scroll-proportion="-13.75" vertical-offset="585" max-vertical-offset="1050">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/less/colors.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="26" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.30612245" vertical-offset="0" max-vertical-offset="135">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.tmp/concat/scripts/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="244" column="3" selection-start="7081" selection-end="7081" vertical-scroll-proportion="0.0" vertical-offset="3269" max-vertical-offset="3750">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.tmp/concat/scripts/modules.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="134115">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="57" selection-start="3517" selection-end="3517" vertical-scroll-proportion="-15.416667" vertical-offset="785" max-vertical-offset="1320">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typeahead.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/typeahead.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="42" selection-end="61" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui-bootstrap.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bower_components/angular-bootstrap/ui-bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="58605">
+              <folding>
+                <marker date="1416172654000" expanded="true" signature="3968:6183" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="7947:8992" placeholder="[...]" />
+                <marker date="1416172654000" expanded="true" signature="8521:8572" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="8656:8984" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="10812:11291" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="10823:11288" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+                <marker date="1416172654000" expanded="true" signature="10973:11284" placeholder="{&quot;type&quot;: '='...}" />
+                <marker date="1416172654000" expanded="true" signature="12598:12797" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="12599:12789" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="17667:17694" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="17726:17779" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="18080:18193" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="18233:18334" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="21923:25974" placeholder="[...]" />
+                <marker date="1416172654000" expanded="true" signature="21951:25973" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="21945:25971" placeholder="{&quot;require&quot;: '^carousel'...}" />
+                <marker date="1416172654000" expanded="true" signature="22453:25957" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="22475:25953" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="36978:37008" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="37041:45141" placeholder="[...]" />
+                <marker date="1416172654000" expanded="true" signature="37148:45140" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="38269:38620" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="40034:40200" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="40245:41509" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="45178:45357" placeholder="{&quot;dateFormat&quot;: 'yyyy-MM-dd'...}" />
+                <marker date="1416172654000" expanded="true" signature="48111:48125" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="49274:49311" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="49961:50306" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="51269:51358" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="51486:51663" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="51669:51761" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="55370:56226" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="55615:56218" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="58249:60136" placeholder="[...]" />
+                <marker date="1416172654000" expanded="true" signature="58310:60135" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="58323:60130" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+                <marker date="1416172654000" expanded="true" signature="58360:58440" placeholder="{&quot;index&quot;: '@'...}" />
+                <marker date="1416172654000" expanded="true" signature="58673:60124" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="63084:63210" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="66168:66194" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="66354:66521" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="68366:68550" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="71405:71446" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="71718:75281" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+                <marker date="1416172654000" expanded="true" signature="73405:75270" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="75414:76093" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+                <marker date="1416172654000" expanded="true" signature="78214:87634" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="79773:87622" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+                <marker date="1416172654000" expanded="true" signature="80013:87603" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="84026:84087" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="84196:84511" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="84575:84966" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="84716:84936" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="85829:85979" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="86081:86469" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="86207:86377" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="86719:86744" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="89186:90043" placeholder="[...]" />
+                <marker date="1416172654000" expanded="true" signature="89294:90042" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="89592:89614" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="89719:89830" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="89730:89822" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="89985:90039" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="91580:92132" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="93175:93599" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+                <marker date="1416172654000" expanded="true" signature="93233:93520" placeholder="{&quot;value&quot;: '='...}" />
+                <marker date="1416172654000" expanded="true" signature="94416:94433" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="94483:94968" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="94637:94910" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="96159:96423" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="99151:99371" placeholder="{&quot;heading&quot;: '@'...}" />
+                <marker date="1416172654000" expanded="true" signature="99527:99731" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="99665:99721" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="101932:109303" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="104079:104194" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="106860:106916" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="109236:109297" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="112932:113018" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="113094:113702" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="114265:115487" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="114284:115378" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="114516:114736" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="115384:115404" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="116589:116619" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="116674:116740" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="116761:116865" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="119387:119414" placeholder="{...}" />
+                <marker date="1416172654000" expanded="true" signature="120647:120701" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/bower_components/angular-bootstrap/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="21" selection-start="180" selection-end="180" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/login.html" />
+        <option value="$PROJECT_DIR$/app/views/car-rental.html" />
+        <option value="$PROJECT_DIR$/app/styles/less/base.less" />
+        <option value="$PROJECT_DIR$/app/styles/less/font.less" />
+        <option value="$PROJECT_DIR$/app/styles/less/mixins.less" />
+        <option value="$PROJECT_DIR$/.jshintrc" />
+        <option value="$PROJECT_DIR$/app/scripts/services/data.js" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/bower_components/angular-bootstrap/bower.json" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/isdate.js" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/datevalidator.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/styles/main.css" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/highlight.js" />
+        <option value="$PROJECT_DIR$/app/views/typeahead.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/typeahead.js" />
+        <option value="$PROJECT_DIR$/app/views/main.html" />
+        <option value="$PROJECT_DIR$/app/styles/less/main.less" />
+        <option value="$PROJECT_DIR$/app/styles/less/colors.less" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="31" />
+    <option name="width" value="1226" />
+    <option name="height" value="660" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="concat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goeuro-angular-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="concat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace-sts-3-2/amkey-1.15" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6d36a0-f529-4544-8219-ad37d4a03de3" name="Default" comment="" />
+      <created>1416063033690</created>
+      <updated>1416063033690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="31" width="1226" height="660" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23153527" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2373444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/car-rental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="389" column="3" selection-start="5234" selection-end="5234" vertical-scroll-proportion="0.0" vertical-offset="5550" max-vertical-offset="106545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="405">
+          <folding>
+            <marker date="1416259516000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="1" selection-end="11" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="49" selection-start="1599" selection-end="1599" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="5925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/colors.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="18" selection-start="2370" selection-end="2370" vertical-scroll-proportion="0.0" vertical-offset="671" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/typeahead.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/angular-bootstrap/ui-bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3078" column="29" selection-start="100002" selection-end="100002" vertical-scroll-proportion="0.0" vertical-offset="45964" max-vertical-offset="51480">
+          <folding>
+            <marker date="1416172654000" expanded="true" signature="3968:6183" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="7947:8992" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="8521:8572" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="8656:8984" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="10812:11291" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="10823:11288" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="10973:11284" placeholder="{&quot;type&quot;: '='...}" />
+            <marker date="1416172654000" expanded="true" signature="12598:12797" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="12599:12789" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="17667:17694" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="17726:17779" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="18080:18193" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="18233:18334" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="21923:25974" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="21951:25973" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="21945:25971" placeholder="{&quot;require&quot;: '^carousel'...}" />
+            <marker date="1416172654000" expanded="true" signature="22453:25957" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="22475:25953" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="36978:37008" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="37041:45141" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="37148:45140" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="38269:38620" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="40034:40200" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="40245:41509" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="45178:45357" placeholder="{&quot;dateFormat&quot;: 'yyyy-MM-dd'...}" />
+            <marker date="1416172654000" expanded="true" signature="48111:48125" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="49274:49311" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="49961:50306" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="51269:51358" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="51486:51663" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="51669:51761" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="55370:56226" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="55615:56218" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="58249:60136" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="58310:60135" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="58323:60130" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="58360:58440" placeholder="{&quot;index&quot;: '@'...}" />
+            <marker date="1416172654000" expanded="true" signature="58673:60124" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="63084:63210" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="66168:66194" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="66354:66521" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="68366:68550" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="71405:71446" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="71718:75281" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="73405:75270" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="75414:76093" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="78214:87634" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="79773:87622" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="80013:87603" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="84026:84087" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="84196:84511" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="84575:84966" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="84716:84936" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="85829:85979" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="86081:86469" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="86207:86377" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="86719:86744" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89186:90043" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="89294:90042" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89592:89614" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89719:89830" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89730:89822" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89985:90039" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="91580:92132" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="93175:93599" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="93233:93520" placeholder="{&quot;value&quot;: '='...}" />
+            <marker date="1416172654000" expanded="true" signature="94416:94433" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="94483:94968" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="94637:94910" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="96159:96423" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="99151:99371" placeholder="{&quot;heading&quot;: '@'...}" />
+            <marker date="1416172654000" expanded="true" signature="99527:99731" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="99665:99721" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="101932:109303" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="104079:104194" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="106860:106916" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="109236:109297" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="112932:113018" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="113094:113702" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="114265:115487" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="114284:115378" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="114516:114736" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="115384:115404" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="116589:116619" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="116674:116740" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="116761:116865" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="119387:119414" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="120647:120701" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="20" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="74" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/car-rental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="389" column="3" selection-start="5234" selection-end="5234" vertical-scroll-proportion="0.0" vertical-offset="5550" max-vertical-offset="106545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="190" column="0" selection-start="5724" selection-end="5724" vertical-scroll-proportion="0.0" vertical-offset="2835" max-vertical-offset="5910">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/colors.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="557" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.buildignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="535">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="14" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/angular-bootstrap/ui-bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="51390">
+          <folding>
+            <marker date="1416172654000" expanded="true" signature="3968:6183" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="7947:8992" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="8521:8572" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="8656:8984" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="10812:11291" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="10823:11288" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="10973:11284" placeholder="{&quot;type&quot;: '='...}" />
+            <marker date="1416172654000" expanded="true" signature="12598:12797" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="12599:12789" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="17667:17694" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="17726:17779" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="18080:18193" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="18233:18334" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="21923:25974" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="21951:25973" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="21945:25971" placeholder="{&quot;require&quot;: '^carousel'...}" />
+            <marker date="1416172654000" expanded="true" signature="22453:25957" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="22475:25953" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="36978:37008" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="37041:45141" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="37148:45140" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="38269:38620" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="40034:40200" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="40245:41509" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="45178:45357" placeholder="{&quot;dateFormat&quot;: 'yyyy-MM-dd'...}" />
+            <marker date="1416172654000" expanded="true" signature="48111:48125" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="49274:49311" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="49961:50306" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="51269:51358" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="51486:51663" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="51669:51761" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="55370:56226" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="55615:56218" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="58249:60136" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="58310:60135" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="58323:60130" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="58360:58440" placeholder="{&quot;index&quot;: '@'...}" />
+            <marker date="1416172654000" expanded="true" signature="58673:60124" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="63084:63210" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="66168:66194" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="66354:66521" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="68366:68550" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="71405:71446" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="71718:75281" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="73405:75270" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="75414:76093" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="78214:87634" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="79773:87622" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="80013:87603" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="84026:84087" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="84196:84511" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="84575:84966" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="84716:84936" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="85829:85979" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="86081:86469" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="86207:86377" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="86719:86744" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89186:90043" placeholder="[...]" />
+            <marker date="1416172654000" expanded="true" signature="89294:90042" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89592:89614" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89719:89830" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89730:89822" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="89985:90039" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="91580:92132" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="93175:93599" placeholder="{&quot;restrict&quot;: 'EA'...}" />
+            <marker date="1416172654000" expanded="true" signature="93233:93520" placeholder="{&quot;value&quot;: '='...}" />
+            <marker date="1416172654000" expanded="true" signature="94416:94433" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="94483:94968" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="94637:94910" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="96159:96423" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="99151:99371" placeholder="{&quot;heading&quot;: '@'...}" />
+            <marker date="1416172654000" expanded="true" signature="99527:99731" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="99665:99721" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="101932:109303" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="104079:104194" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="106860:106916" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="109236:109297" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="112932:113018" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="113094:113702" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="114265:115487" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="114284:115378" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="114516:114736" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="115384:115404" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="116589:116619" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="116674:116740" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="116761:116865" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="119387:119414" placeholder="{...}" />
+            <marker date="1416172654000" expanded="true" signature="120647:120701" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="21" selection-start="180" selection-end="180" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/angular-bootstrap/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bower_components/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="389" column="3" selection-start="5234" selection-end="5234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="106545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/car-rental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/directives/datevalidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="45" selection-start="114" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding>
+            <marker date="1416257527000" expanded="true" signature="141:716" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="1" selection-end="11" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/directives/highlight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="43" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="27" selection-start="520" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="465">
+          <folding>
+            <marker date="1416259516000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="29" selection-start="1764" selection-end="1774" vertical-scroll-proportion="0.0" vertical-offset="706" max-vertical-offset="1335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/directives/typeahead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="0" selection-start="2407" selection-end="2407" vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="57" selection-start="3517" selection-end="3517" vertical-scroll-proportion="-15.416667" vertical-offset="785" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="85" selection-start="3216" selection-end="3216" vertical-scroll-proportion="-4.72" vertical-offset="604" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/typeahead.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="42" selection-end="61" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="37" selection-start="340" selection-end="340" vertical-scroll-proportion="-5.2040815" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/less/colors.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="26" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.30612245" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.tmp/concat/scripts/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="244" column="3" selection-start="7081" selection-end="7081" vertical-scroll-proportion="0.0" vertical-offset="3269" max-vertical-offset="3750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.tmp/concat/scripts/modules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="157875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="2607" selection-end="2607" vertical-scroll-proportion="-13.75" vertical-offset="585" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="0" selection-start="7554" selection-end="7554" vertical-scroll-proportion="-12.807693" vertical-offset="3387" max-vertical-offset="6060">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/scripts/f4922bbd.scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,36 +1,63 @@
-<div class="header">
-  <ul class="nav nav-pills pull-right">
-    <li class="active"><a ng-href="#">Home</a></li>
-    <li><a ng-href="#">About</a></li>
-    <li><a ng-href="#">Contact</a></li>
-  </ul>
-  <h3 class="text-muted">goeuro angular test</h3>
+<!-- main view -->
+
+<div class="row">
+
+    <div class="col-xs-8 col-xs-offset-2 col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4">
+
+        <div class="booking">
+
+            <form name="bookingForm" class="form-inline" role="form" data-ng-submit="submitSearch()" data-ng-show="!gutGesucht" novalidate>
+                <div class="row">
+                    <div class="col-xs-12 col-md-6 col-lg-6">
+                        Origin
+                    </div>
+                </div>
+                <div class="row">
+                    <typeahead ta-id="origin" ta-model="bookingData.origin" ta-submitted="submitted" ta-name="origin" ta-placeholder="Your origin" ta-select="selectOrigin(item)">
+                    </typeahead>
+                    <div class="col-xs-12 col-md-6 col-lg-6">
+                        <div class="input-group">
+                            <div class="input-group-addon">
+                                <a type="button" class="btn btn-xs" ng-click="openStartDate($event)"><i class="glyphicon glyphicon-calendar"></i>
+                                </a>
+                            </div>
+                            <input type="text" data-ng-class="{'submitted' : submitted}" class="form-control" datepicker-popup="{{format}}" ng-model="dateStart" is-open="startDateOpenend" min-date="minDate" max-date="'2015-06-22'" datepicker-options="dateOptions" date-disabled="disabled(date, mode)" ng-required="true" close-text="Close" required />
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-md-6 col-lg-6">
+                        Destination
+                    </div>
+                </div>
+                <div class="row">
+                    <typeahead ta-id="destination" ta-name="destination" ta-submitted="submitted" ta-model="bookingData.destination"  ta-placeholder="Your destination" ta-select="selectDestination(item)">
+                    </typeahead>
+                    <div class="col-xs-12 col-md-6 col-lg-6">
+                        <div class="input-group">
+                            <div class="input-group-addon">
+                                <a type="button" class="btn btn-xs" ng-click="openEndDate($event)"><i class="glyphicon glyphicon-calendar"></i>
+                                </a>
+                            </div>
+                            <input type="text" data-ng-class="{'submitted' : submitted}" class="form-control" datepicker-popup="{{format}}" ng-model="dateEnd" is-open="endDateOpened" min-date="minDate" max-date="'2015-06-22'" datepicker-options="dateOptions" date-disabled="disabled(date, mode)" ng-required="true" close-text="Close" required />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 col-md-12 col-lg-12">
+                        <div class="clearfix">&nbsp;</div>
+                        <button class="btn btn-primary btn-block">Search</button>
+                    </div>
+                </div>
+
+            </form>
+
+            <div class="alert alert-success" data-ng-show="gutGesucht">Well searched :)</div>
+        </div>
+
+    </div>
+
 </div>
 
-<div class="jumbotron">
-  <h1>'Allo, 'Allo!</h1>
-  <p class="lead">
-    <img src="images/yeoman.png" alt="I'm Yeoman"><br>
-    Always a pleasure scaffolding your apps.
-  </p>
-  <p><a class="btn btn-lg btn-success" ng-href="#">Splendid!</a></p>
-</div>
-
-<div class="row marketing">
-  <h4>HTML5 Boilerplate</h4>
-  <p>
-    HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
-  </p>
-
-  <h4>Angular</h4>
-  <p>
-    AngularJS is a toolset for building the framework most suited to your application development.
-  </p>
-
-  <h4>Karma</h4>
-  <p>Spectacular Test Runner for JavaScript.</p>
-</div>
-
-<div class="footer">
-  <p>♥ from the Yeoman team</p>
-</div>

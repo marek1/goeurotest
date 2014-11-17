@@ -1,0 +1,25 @@
+/* main view
+ ========================================================================== */
+.booking {
+  background-color: #999999;
+  -webkit-box-shadow: 10px 10px 5px 0px;
+  -moz-box-shadow: 10px 10px 5px 0px;
+  box-shadow: 10px 10px 5px 0px;
+  padding: 5px 5%;
+}
+.booking .btn-xs {
+  padding: 0 !important;
+}
+.typeahead-items {
+  width: 100%;
+  background-color: #cccccc;
+}
+.typeahead-items .active {
+  background-color: white;
+}
+.typeahead-items.hide {
+  display: none;
+}
+.ng-invalid.submitted {
+  border: 1px solid #ff0000;
+}

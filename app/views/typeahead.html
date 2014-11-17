@@ -1,0 +1,17 @@
+<div class="col-xs-12 col-md-6 col-lg-6">
+    <div class="">
+        <input type="text"
+               class="form-control"
+               data-ng-class="{'submitted' : submitted}"
+               id="{{id}}"
+               name="{{name}}"
+               data-ng-model="model"
+               placeholder="{{placeholder}}"
+               autocomplete="off"
+               required
+               >
+    </div>
+    <div class="typeahead-items" data-ng-class="{'hide' : hide === true}" ng-repeat="item in items">
+        <div highlight-item="item">{{item.fullName}}</div>
+    </div>
+</div>

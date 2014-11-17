@@ -1,0 +1,33 @@
+@import "mixins";
+@import "colors";
+
+/* main view
+ ========================================================================== */
+
+.booking{
+  background-color: @color-grey;
+  .box-shadow(10px 10px 5px 0px);
+  padding: 5px 5%;
+  .btn-xs{
+    padding:0 !important;
+  }
+}
+
+.typeahead-items{
+  width: 100%;
+  background-color: @color-light-grey;
+  .active{
+    background-color: white;
+  }
+  &.hide{
+    display: none;
+  }
+}
+
+.ng-invalid{
+  &.submitted{
+    border: 1px solid @color-red;
+  }
+}
+
+
